@@ -13,11 +13,9 @@
 
 ## 🌐 Live Demo
 
-> **Note:** Add your Streamlit Cloud URL here after deployment
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://learning-track.streamlit.app)
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
-
-Try the application online: [Streamlit Cloud](https://your-app-name.streamlit.app)
+Try the application online: [Streamlit Cloud](https://learning-track.streamlit.app/)
 
 ---
 
@@ -36,7 +34,6 @@ Try the application online: [Streamlit Cloud](https://your-app-name.streamlit.ap
 
 > **Note:** Add screenshots to a `screenshots/` folder and update paths below
 
-<!-- Uncomment and add actual screenshots when available
 ### Dashboard View
 ![Dashboard](screenshots/dashboard.png)
 
@@ -45,7 +42,7 @@ Try the application online: [Streamlit Cloud](https://your-app-name.streamlit.ap
 
 ### Add Resource
 ![Add Resource](screenshots/add_resource.png)
--->
+
 
 ## Architecture
 
@@ -57,16 +54,16 @@ Try the application online: [Streamlit Cloud](https://your-app-name.streamlit.ap
                      │
                      ▼
 ┌─────────────────────────────────────────────────────────────┐
-│              LearningTracker Backend Class                   │
-│                  (learning_tracker.py)                       │
+│              LearningTracker Backend Class                  │
+│                  (learning_tracker.py)                      │
 │  • Add/Update Resources  • Search & Filter                  │
 │  • Build Knowledge Graph  • Generate Statistics             │
 └────────────────────┬────────────────────────────────────────┘
                      │
                      ▼
 ┌─────────────────────────────────────────────────────────────┐
-│                    JSON Database Storage                     │
-│                  (learning_db.json)                          │
+│                    JSON Database Storage                    │
+│                  (learning_db.json)                         │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -248,7 +245,6 @@ learning-tracker/
 ├── learning_tracker.py    # Core backend class with all business logic
 ├── app.py                  # Streamlit web application (main interface)
 ├── demo.py                 # Demo script showing example usage
-├── generate_pdf_documentation.py  # PDF documentation generator
 ├── learning_db.json        # JSON database file (auto-created)
 ├── requirements.txt        # Python package dependencies
 └── README.md              # Project documentation
@@ -289,13 +285,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/learning-tracker/issues)
-- **Email**: your.email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Issues**: [GitHub Issues](https://github.com/jatinnama7/learning-tracker/issues)
+- **Email**: jatinnama7.com
 
 ---
 
 <div align="center">
   <p><strong>Start tracking your learning journey today! 🚀</strong></p>
-  <p>Made with ❤️ using Python and Streamlit</p>
+  <p>Made with ❤️ by Jatin using Python and Streamlit</p>
 </div>
