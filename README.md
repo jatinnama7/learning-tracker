@@ -29,10 +29,9 @@ Try the application online: [Streamlit Cloud](https://learning-track.streamlit.a
 - 🎨 **Beautiful Web UI**: Modern Streamlit interface with interactive visualizations
 - 📄 **Bilingual Documentation**: Complete project documentation in Hindi and English
 - 🌙 **Dark Mode Support**: Beautiful interface that adapts to your theme preference
+<br>
 
 ## Screenshots
-
-> **Note:** Add screenshots to a `screenshots/` folder and update paths below
 
 ### Dashboard View
 ![Dashboard](screenshots/dashboard.png)
