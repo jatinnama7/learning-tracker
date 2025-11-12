@@ -34,7 +34,6 @@ Try the application online: [Streamlit Cloud](https://learning-track.streamlit.a
 
 > **Note:** Add screenshots to a `screenshots/` folder and update paths below
 
-<!-- Uncomment and add actual screenshots when available
 ### Dashboard View
 ![Dashboard](screenshots/dashboard.png)
 
@@ -43,7 +42,7 @@ Try the application online: [Streamlit Cloud](https://learning-track.streamlit.a
 
 ### Add Resource
 ![Add Resource](screenshots/add_resource.png)
--->
+
 
 ## Architecture
 
