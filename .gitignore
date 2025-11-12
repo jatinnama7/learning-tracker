@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Streamlit
+.streamlit/
+DEPLOYMENT_GUIDE.md
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+demo_db.json
+*.log
+learning_db.json
+
+#
+# learning_db.json
+# learning_db.json
+# DEPLOYMENT_GUIDE.md
+# README.md
+# requirements.txt
+# packages.txt
+# app.py
+# learning_tracker.py
+# demo.py
+# generate_pdf_documentation.py
+# screenshots/
+# screenshots/dashboard.png
+# screenshots/knowledge_graph.png
+# screenshots/add_resource.png
