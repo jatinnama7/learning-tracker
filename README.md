@@ -41,7 +41,7 @@ Try the application online: [Streamlit Cloud](https://learning-track.streamlit.a
 ![Knowledge Graph](screenshots/knowledge_graph.png)
 
 ### Add Resource
-![Add Resource](screenshots/add_resource.png)
+![Add Resource](screenshots/add_resources.png)
 
 
 ## Architecture
